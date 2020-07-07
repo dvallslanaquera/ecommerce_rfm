@@ -1,0 +1,1 @@
+Analysis using the E-commerce database from Kaggle.com, originally posted in the UCI Machine Learning Repository and contains around 150.000 transactions from an UK-based online retailer. The dataset contains actual data for the period 2010/2011 grouped by country and transaction day.
